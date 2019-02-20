@@ -1,0 +1,413 @@
+# depslib dependency file v1.0
+1550638983 source:c:\users\10002\documents\c++\sfml\main.cpp
+	<C:\SFML\Graphics.hpp>
+
+1550640030 c:\sfml\graphics.hpp
+	<C:\SFML/Window.hpp>
+	<C:\SFML/Graphics/BlendMode.hpp>
+	<C:\SFML/Graphics/CircleShape.hpp>
+	<C:\SFML/Graphics/Color.hpp>
+	<C:\SFML/Graphics/ConvexShape.hpp>
+	<C:\SFML/Graphics/Drawable.hpp>
+	<C:\SFML/Graphics/Font.hpp>
+	<C:\SFML/Graphics/Glyph.hpp>
+	<C:\SFML/Graphics/Image.hpp>
+	<C:\SFML/Graphics/PrimitiveType.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<C:\SFML/Graphics/RectangleShape.hpp>
+	<C:\SFML/Graphics/RenderStates.hpp>
+	<C:\SFML/Graphics/RenderTarget.hpp>
+	<C:\SFML/Graphics/RenderTexture.hpp>
+	<C:\SFML/Graphics/RenderWindow.hpp>
+	<C:\SFML/Graphics/Shader.hpp>
+	<C:\SFML/Graphics/Shape.hpp>
+	<C:\SFML/Graphics/Sprite.hpp>
+	<C:\SFML/Graphics/Text.hpp>
+	<C:\SFML/Graphics/Texture.hpp>
+	<C:\SFML/Graphics/Transform.hpp>
+	<C:\SFML/Graphics/Transformable.hpp>
+	<C:\SFML/Graphics/Vertex.hpp>
+	<C:\SFML/Graphics/VertexArray.hpp>
+	<C:\SFML/Graphics/VertexBuffer.hpp>
+	<C:\SFML/Graphics/View.hpp>
+
+1550639622 c:\sfml\window.hpp
+	<C:\SFML/System.hpp>
+	<C:\SFML/Window/Clipboard.hpp>
+	<C:\SFML/Window/Context.hpp>
+	<C:\SFML/Window/ContextSettings.hpp>
+	<C:\SFML/Window/Cursor.hpp>
+	<C:\SFML/Window/Event.hpp>
+	<C:\SFML/Window/Joystick.hpp>
+	<C:\SFML/Window/Keyboard.hpp>
+	<C:\SFML/Window/Mouse.hpp>
+	<C:\SFML/Window/Sensor.hpp>
+	<C:\SFML/Window/Touch.hpp>
+	<C:\SFML/Window/VideoMode.hpp>
+	<C:\SFML/Window/Window.hpp>
+	<C:\SFML/Window/WindowHandle.hpp>
+	<C:\SFML/Window/WindowStyle.hpp>
+
+1550639383 c:\sfml\system.hpp
+	<C:\SFML/Config.hpp>
+	<C:\SFML/System/Clock.hpp>
+	<C:\SFML/System/Err.hpp>
+	<C:\SFML/System/FileInputStream.hpp>
+	<C:\SFML/System/InputStream.hpp>
+	<C:\SFML/System/Lock.hpp>
+	<C:\SFML/System/MemoryInputStream.hpp>
+	<C:\SFML/System/Mutex.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+	<C:\SFML/System/Sleep.hpp>
+	<C:\SFML/System/String.hpp>
+	<C:\SFML/System/Thread.hpp>
+	<C:\SFML/System/ThreadLocal.hpp>
+	<C:\SFML/System/ThreadLocalPtr.hpp>
+	<C:\SFML/System/Time.hpp>
+	<C:\SFML/System/Utf.hpp>
+	<C:\SFML/System/Vector2.hpp>
+	<C:\SFML/System/Vector3.hpp>
+
+1550638598 c:\sfml\config.hpp
+	"TargetConditionals.h"
+
+1550639394 c:\sfml\system\clock.hpp
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/Time.hpp>
+
+1550639404 c:\sfml\system\export.hpp
+	<C:\SFML/Config.hpp>
+
+1550639415 c:\sfml\system\time.hpp
+	<C:\SFML/System/Export.hpp>
+
+1550639422 c:\sfml\system\err.hpp
+	<C:\SFML/System/Export.hpp>
+	<ostream>
+
+1550639432 c:\sfml\system\fileinputstream.hpp
+	<C:\SFML/Config.hpp>
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/InputStream.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1550639441 c:\sfml\system\inputstream.hpp
+	<C:\SFML/Config.hpp>
+	<C:\SFML/System/Export.hpp>
+
+1550639449 c:\sfml\system\noncopyable.hpp
+	<C:\SFML/System/Export.hpp>
+
+1550639457 c:\sfml\system\lock.hpp
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+
+1550639468 c:\sfml\system\memoryinputstream.hpp
+	<C:\SFML/Config.hpp>
+	<C:\SFML/System/InputStream.hpp>
+	<C:\SFML/System/Export.hpp>
+	<cstdlib>
+
+1550639478 c:\sfml\system\mutex.hpp
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+
+1550639488 c:\sfml\system\sleep.hpp
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/Time.hpp>
+
+1550639530 c:\sfml\system\string.hpp
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<C:\SFML/System/String.inl>
+
+1550639522 c:\sfml\system\utf.hpp
+	<C:\SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<C:\SFML/System/Utf.inl>
+
+1550638606 c:\sfml\system\utf.inl
+
+1550638605 c:\sfml\system\string.inl
+
+1550639549 c:\sfml\system\thread.hpp
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<C:\SFML/System/Thread.inl>
+
+1550638605 c:\sfml\system\thread.inl
+
+1550639558 c:\sfml\system\threadlocal.hpp
+	<C:\SFML/System/Export.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1550639576 c:\sfml\system\threadlocalptr.hpp
+	<C:\SFML/System/ThreadLocal.hpp>
+	<C:\SFML/System/ThreadLocalPtr.inl>
+
+1550638606 c:\sfml\system\threadlocalptr.inl
+
+1550639585 c:\sfml\system\vector2.hpp
+	<C:\SFML/System/Vector2.inl>
+
+1550638606 c:\sfml\system\vector2.inl
+
+1550639595 c:\sfml\system\vector3.hpp
+	<C:\SFML/System/Vector3.inl>
+
+1550638606 c:\sfml\system\vector3.inl
+
+1550639630 c:\sfml\window\clipboard.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/System/String.hpp>
+
+1550639637 c:\sfml\window\export.hpp
+	<C:\SFML/Config.hpp>
+
+1550639661 c:\sfml\window\context.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/Window/GlResource.hpp>
+	<C:\SFML/Window/ContextSettings.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+
+1550639669 c:\sfml\window\glresource.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+
+1550639675 c:\sfml\window\contextsettings.hpp
+	<C:\SFML/Config.hpp>
+
+1550639684 c:\sfml\window\cursor.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550639693 c:\sfml\window\event.hpp
+	<C:\SFML/Config.hpp>
+	<C:\SFML/Window/Joystick.hpp>
+	<C:\SFML/Window/Keyboard.hpp>
+	<C:\SFML/Window/Mouse.hpp>
+	<C:\SFML/Window/Sensor.hpp>
+
+1550639700 c:\sfml\window\joystick.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/System/String.hpp>
+
+1550639707 c:\sfml\window\keyboard.hpp
+	<C:\SFML/Window/Export.hpp>
+
+1550639715 c:\sfml\window\mouse.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550639723 c:\sfml\window\sensor.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/System/Vector3.hpp>
+	<C:\SFML/System/Time.hpp>
+
+1550639729 c:\sfml\window\touch.hpp
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550639736 c:\sfml\window\videomode.hpp
+	<C:\SFML/Window/Export.hpp>
+	<vector>
+
+1550639761 c:\sfml\window\window.hpp
+	<C:\SFML/Window/ContextSettings.hpp>
+	<C:\SFML/Window/Cursor.hpp>
+	<C:\SFML/Window/Export.hpp>
+	<C:\SFML/Window/GlResource.hpp>
+	<C:\SFML/Window/VideoMode.hpp>
+	<C:\SFML/Window/WindowHandle.hpp>
+	<C:\SFML/Window/WindowStyle.hpp>
+	<C:\SFML/System/Clock.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+	<C:\SFML/System/String.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550639769 c:\sfml\window\windowhandle.hpp
+	<C:\SFML/Config.hpp>
+
+1550638608 c:\sfml\window\windowstyle.hpp
+
+1550639810 c:\sfml\graphics\blendmode.hpp
+	<C:\SFML/Graphics/Export.hpp>
+
+1550639821 c:\sfml\graphics\export.hpp
+	<C:\SFML/Config.hpp>
+
+1550639832 c:\sfml\graphics\circleshape.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Shape.hpp>
+
+1550639863 c:\sfml\graphics\shape.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Drawable.hpp>
+	<C:\SFML/Graphics/Transformable.hpp>
+	<C:\SFML/Graphics/VertexArray.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550639897 c:\sfml\graphics\drawable.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/RenderStates.hpp>
+
+1550639908 c:\sfml\graphics\renderstates.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/BlendMode.hpp>
+	<C:\SFML/Graphics/Transform.hpp>
+
+1550639920 c:\sfml\graphics\transform.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550639938 c:\sfml\graphics\rect.hpp
+	<C:\SFML/System/Vector2.hpp>
+	<algorithm>
+	<C:\SFML/Graphics/Rect.inl>
+
+1550638601 c:\sfml\graphics\rect.inl
+
+1550639963 c:\sfml\graphics\transformable.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Transform.hpp>
+
+1550639973 c:\sfml\graphics\vertexarray.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Vertex.hpp>
+	<C:\SFML/Graphics/PrimitiveType.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<C:\SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1550639985 c:\sfml\graphics\vertex.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Color.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550639992 c:\sfml\graphics\color.hpp
+	<C:\SFML/Graphics/Export.hpp>
+
+1550638601 c:\sfml\graphics\primitivetype.hpp
+
+1550640000 c:\sfml\graphics\convexshape.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Shape.hpp>
+	<vector>
+
+1550640040 c:\sfml\graphics\font.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Glyph.hpp>
+	<C:\SFML/Graphics/Texture.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<C:\SFML/System/Vector2.hpp>
+	<C:\SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1550640048 c:\sfml\graphics\glyph.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+
+1550640060 c:\sfml\graphics\texture.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Image.hpp>
+	<C:\SFML/Window/GlResource.hpp>
+
+1550640068 c:\sfml\graphics\image.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Color.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1550640075 c:\sfml\graphics\rectangleshape.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Shape.hpp>
+
+1550640089 c:\sfml\graphics\rendertarget.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Color.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<C:\SFML/Graphics/View.hpp>
+	<C:\SFML/Graphics/Transform.hpp>
+	<C:\SFML/Graphics/BlendMode.hpp>
+	<C:\SFML/Graphics/RenderStates.hpp>
+	<C:\SFML/Graphics/PrimitiveType.hpp>
+	<C:\SFML/Graphics/Vertex.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+
+1550640100 c:\sfml\graphics\view.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<C:\SFML/Graphics/Transform.hpp>
+	<C:\SFML/System/Vector2.hpp>
+
+1550640115 c:\sfml\graphics\rendertexture.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Texture.hpp>
+	<C:\SFML/Graphics/RenderTarget.hpp>
+	<C:\SFML/Window/ContextSettings.hpp>
+
+1550640123 c:\sfml\graphics\renderwindow.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/RenderTarget.hpp>
+	<C:\SFML/Graphics/Image.hpp>
+	<C:\SFML/Window/Window.hpp>
+	<string>
+
+1550640133 c:\sfml\graphics\shader.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Glsl.hpp>
+	<C:\SFML/Window/GlResource.hpp>
+	<C:\SFML/System/NonCopyable.hpp>
+	<C:\SFML/System/Vector2.hpp>
+	<C:\SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1550640146 c:\sfml\graphics\glsl.hpp
+	<C:\SFML/Graphics/Transform.hpp>
+	<C:\SFML/Graphics/Color.hpp>
+	<C:\SFML/System/Vector2.hpp>
+	<C:\SFML/System/Vector3.hpp>
+	<C:\SFML/Graphics/Glsl.inl>
+
+1550638601 c:\sfml\graphics\glsl.inl
+
+1550640155 c:\sfml\graphics\sprite.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Drawable.hpp>
+	<C:\SFML/Graphics/Transformable.hpp>
+	<C:\SFML/Graphics/Vertex.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+
+1550640167 c:\sfml\graphics\text.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/Drawable.hpp>
+	<C:\SFML/Graphics/Transformable.hpp>
+	<C:\SFML/Graphics/Font.hpp>
+	<C:\SFML/Graphics/Rect.hpp>
+	<C:\SFML/Graphics/VertexArray.hpp>
+	<C:\SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1550640177 c:\sfml\graphics\vertexbuffer.hpp
+	<C:\SFML/Graphics/Export.hpp>
+	<C:\SFML/Graphics/PrimitiveType.hpp>
+	<C:\SFML/Graphics/Drawable.hpp>
+	<C:\SFML/Window/GlResource.hpp>
+
